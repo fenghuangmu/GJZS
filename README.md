@@ -1,8 +1,8 @@
 # 搞机助手·R
 
-`原「搞机助手重制版」`
+## `原「搞机助手重制版」`
 
-[![Push CI](https://github.com/liuran001/GJZS/actions/workflows/push_ci.yml/badge.svg)](https://github.com/liuran001/GJZS/actions/workflows/push_ci.yml)
+## [![Push CI](https://github.com/liuran001/GJZS/actions/workflows/push_ci.yml/badge.svg)](https://github.com/liuran001/GJZS/actions/workflows/push_ci.yml)
 
 ## 下载
 
